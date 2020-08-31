@@ -36,7 +36,6 @@ namespace MyClassLibrary
             return str;
         }
         /// <summary>
-<<<<<<< HEAD
         /// Считывание целых чисел из консоли.
         /// </summary>
         /// <returns></returns>
@@ -63,8 +62,6 @@ namespace MyClassLibrary
             return str;
         }
         /// <summary>
-=======
->>>>>>> Lesson1
         /// Считывание вещественных чисел из консоли.
         /// </summary>
         /// <returns></returns>
@@ -126,7 +123,6 @@ namespace MyClassLibrary
             Console.SetCursorPosition(x, y);
             Console.WriteLine(msg);
         }
-<<<<<<< HEAD
         /// <summary>
         /// Максимальное число из 3х
         /// </summary>
@@ -210,7 +206,6 @@ namespace MyClassLibrary
             else
                 return a + RecSumV2(a + 1, b);
         }
-        
         /// <summary>
         /// вывод на экран от а до б рекурсией
         /// </summary>
@@ -237,10 +232,6 @@ namespace MyClassLibrary
             else
                 return RecPrintV2(a, b - 1) + ", " + b;
         }
+    
     }
-
-=======
-
-    }
->>>>>>> Lesson1
 }
