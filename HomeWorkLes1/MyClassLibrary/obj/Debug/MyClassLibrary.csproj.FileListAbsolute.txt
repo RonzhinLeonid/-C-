@@ -1,0 +1,6 @@
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\MyClassLibrary\obj\Debug\MyClassLibrary.csprojAssemblyReference.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
