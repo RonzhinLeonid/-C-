@@ -24,6 +24,7 @@ namespace Exercise1
             MyMetods.Print("Укажите Вашу фамилию.");
             string surName = Console.ReadLine();
             MyMetods.Print("Укажите Ваш возраст.");
+<<<<<<< HEAD
             uint age = MyMetods.ReadUint();
             MyMetods.Print("Укажите Ваш вес в килограммах.");
             double weight = MyMetods.ReadDouble();
@@ -35,6 +36,15 @@ namespace Exercise1
             Console.WriteLine("Вариант б.\nИмя: {0} Фамилия: {1} Возраст: {2}, рост: {3}м, вес: {4}кг.", name, surName, age, growth, weight);
             //Вариант в
             Console.WriteLine($"Вариант в.\nИмя: {name} Фамилия: {surName} Возраст: {age}, рост: {growth}м, вес: {weight}кг.");
+=======
+            int age = MyMetods.ReadInt();
+            //Вариант а
+            Console.WriteLine("Вариант а.\nИмя: " + name + " Фамилия: " + surName + " Возраст: " + age);
+            //Вариант б
+            Console.WriteLine("Вариант б.\nИмя: {0} Фамилия: {1} Возраст: {2}", name, surName, age);
+            //Вариант в
+            Console.WriteLine($"Вариант в.\nИмя: {name} Фамилия: {surName} Возраст: {age}");
+>>>>>>> Lesson1
             MyMetods.Pause();
 
             #endregion
