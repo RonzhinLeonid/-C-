@@ -34,6 +34,19 @@ namespace MyClassLibrary
                 Print("Попробуйте еще раз.");
             }
             return str;
+        }/// <summary>
+         /// Считывание целых чисел из консоли.
+         /// </summary>
+         /// <returns></returns>
+        public static int ReadInt(string mes)
+        {
+            Print(mes);
+            int str;
+            while (!int.TryParse(Console.ReadLine(), out str))
+            {
+                Print("Попробуйте еще раз.");
+            }
+            return str;
         }
         /// <summary>
         /// Считывание целых чисел из консоли.
@@ -232,6 +245,14 @@ namespace MyClassLibrary
             else
                 return RecPrintV2(a, b - 1) + ", " + b;
         }
-    
+
+        public static int NOD(int a, int b)
+        {
+            a = Math.Abs(a);
+            b = Math.Abs(b);
+            while (a != b)
+                    if (a > b) a = a - b; else b = b - a;
+                return a;
+        }
     }
 }
