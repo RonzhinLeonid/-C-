@@ -1,0 +1,10 @@
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les4Exercise4\bin\Debug\Les4Exercise4.exe.config
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les4Exercise4\bin\Debug\Les4Exercise4.exe
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les4Exercise4\bin\Debug\Les4Exercise4.pdb
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les4Exercise4\bin\Debug\MyClassLibrary.dll
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les4Exercise4\bin\Debug\MyClassLibrary.pdb
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les4Exercise4\obj\Debug\Les4Exercise4.csprojAssemblyReference.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les4Exercise4\obj\Debug\Les4Exercise4.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les4Exercise4\obj\Debug\Les4Exercise4.csproj.CopyComplete
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les4Exercise4\obj\Debug\Les4Exercise4.exe
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les4Exercise4\obj\Debug\Les4Exercise4.pdb

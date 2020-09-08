@@ -1,0 +1,6 @@
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\ArrayClassLibrary\bin\Debug\ArrayClassLibrary.dll
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\ArrayClassLibrary\bin\Debug\ArrayClassLibrary.pdb
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\ArrayClassLibrary\obj\Debug\ArrayClassLibrary.csprojAssemblyReference.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\ArrayClassLibrary\obj\Debug\ArrayClassLibrary.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\ArrayClassLibrary\obj\Debug\ArrayClassLibrary.dll
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\ArrayClassLibrary\obj\Debug\ArrayClassLibrary.pdb
