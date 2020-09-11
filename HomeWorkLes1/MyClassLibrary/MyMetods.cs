@@ -254,5 +254,15 @@ namespace MyClassLibrary
                     if (a > b) a = a - b; else b = b - a;
                 return a;
         }
+        /// <summary>
+        /// Проверяет является ли символ буквой латинского алфавита. 
+        /// </summary>
+        /// <param name="sym"></param>
+        /// <returns></returns>
+        public static bool IsDigitLat(char sym)
+        {
+            if (Char.ToLower(sym) >= 'a' && Char.ToLower(sym) <= 'z') return true;
+            else return false;
+        }
     }
 }
