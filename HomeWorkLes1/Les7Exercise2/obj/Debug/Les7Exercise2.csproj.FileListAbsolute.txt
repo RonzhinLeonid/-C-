@@ -1,0 +1,11 @@
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\bin\Debug\Les7Exercise2.exe.config
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\bin\Debug\Les7Exercise2.exe
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\bin\Debug\Les7Exercise2.pdb
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\obj\Debug\Les7Exercise2.csprojAssemblyReference.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\obj\Debug\Les7Exercise2.GuessNumber.resources
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\obj\Debug\Les7Exercise2.Properties.Resources.resources
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\obj\Debug\Les7Exercise2.csproj.GenerateResource.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\obj\Debug\Les7Exercise2.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\obj\Debug\Les7Exercise2.exe
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\obj\Debug\Les7Exercise2.pdb
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les7Exercise2\obj\Debug\Les7Exercise2.EnterNumber.resources
