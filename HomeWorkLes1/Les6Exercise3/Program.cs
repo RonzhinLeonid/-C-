@@ -48,7 +48,7 @@ namespace Les6Exercise3
         {
             int bakalavr = 0;
             int magistr = 0;
-            List<Student> list = new List<Student>();                             // Создаем список студентов
+            List<Student> list = new List<Student>();    // Создаем список студентов
             DateTime dt = DateTime.Now;
             StreamReader sr = new StreamReader("students_6.csv");
             while (!sr.EndOfStream)
