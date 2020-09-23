@@ -26,6 +26,33 @@ namespace WeatherForecast
             this.AddCity("https://xml.meteoservice.ru/export/gismeteo/point/5.xml", "Астрахань");
             this.AddCity("https://xml.meteoservice.ru/export/gismeteo/point/116.xml", "Сочи");
             this.AddCity("https://xml.meteoservice.ru/export/gismeteo/point/486.xml", "Казань");
+            this.AddCity("https://xml.meteoservice.ru/export/gismeteo/point/486.xml", "Санкт-Петербург");
+        }
+        public DataWeather(string city)
+        {
+            Data = new ObservableCollection<Forecast>();
+            client = new WebClient();
+            switch (city)
+            {
+                case "Москва":
+                this.AddCity("https://xml.meteoservice.ru/export/gismeteo/point/37.xml", city);
+                    break;
+                case "Астрахань":
+                    this.AddCity("https://xml.meteoservice.ru/export/gismeteo/point/5.xml", city);
+                    break;
+                case "Сочи":
+                    this.AddCity("https://xml.meteoservice.ru/export/gismeteo/point/116.xml", city);
+                    break;
+                case "Казань":
+                    this.AddCity("https://xml.meteoservice.ru/export/gismeteo/point/486.xml", city);
+                    break;
+                case "Санкт-Петербург":
+                    this.AddCity("https://xml.meteoservice.ru/export/gismeteo/point/69.xml", city);
+                    break;
+                default:
+                    this.AddCity("https://xml.meteoservice.ru/export/gismeteo/point/37.xml", "Москва");
+                    break;
+            }
         }
 
         public void AddCity(string url, string name)

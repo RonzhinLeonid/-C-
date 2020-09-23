@@ -23,8 +23,12 @@ namespace WeatherForecast
         public MainWindow()
         {
             InitializeComponent();
-            var r = new DataWeather();
-            //dGrid.ItemsSource = r.Data;
+            var r = new DataWeather("Москва");
+            lvWeather.ItemsSource = r.Data;
+        }
+        private void btnUpdate_Click(object sender, RoutedEventArgs e)
+        {
+            var r = new DataWeather(cbCity.Text);
             lvWeather.ItemsSource = r.Data;
         }
     }
