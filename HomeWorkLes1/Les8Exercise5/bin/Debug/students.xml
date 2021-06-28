@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <LastName>Иванов</LastName>
+    <FirstName>Иван</FirstName>
+    <University>Университет 1</University>
+    <Faculty>Факультет 1</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>1</Course>
+    <Age>18</Age>
+    <Group>1</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Рагозина</LastName>
+    <FirstName>Наталья</FirstName>
+    <University>Университет 1</University>
+    <Faculty>Факультет 2</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>3</Course>
+    <Age>17</Age>
+    <Group>1</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Румянцева</LastName>
+    <FirstName>Елена</FirstName>
+    <University>Университет 2</University>
+    <Faculty>Факультет 1</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>4</Course>
+    <Age>18</Age>
+    <Group>1</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Морозов</LastName>
+    <FirstName>Илья</FirstName>
+    <University>Университет 1</University>
+    <Faculty>Факультет 3</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>6</Course>
+    <Age>19</Age>
+    <Group>1</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Кожевников</LastName>
+    <FirstName>Артем</FirstName>
+    <University>Университет 1</University>
+    <Faculty>Факультет 1</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>1</Course>
+    <Age>18</Age>
+    <Group>2</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Соколов</LastName>
+    <FirstName>Сергей</FirstName>
+    <University>Университет 2</University>
+    <Faculty>Факультет 2</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>5</Course>
+    <Age>20</Age>
+    <Group>2</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Маринина</LastName>
+    <FirstName>Кристина</FirstName>
+    <University>Университет 3</University>
+    <Faculty>Факультет 1</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>5</Course>
+    <Age>21</Age>
+    <Group>2</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Корбут</LastName>
+    <FirstName>Матильда</FirstName>
+    <University>Университет 1</University>
+    <Faculty>Факультет 1</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>1</Course>
+    <Age>18</Age>
+    <Group>3</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Лаврецкая</LastName>
+    <FirstName>Дарья</FirstName>
+    <University>Университет 3</University>
+    <Faculty>Факультет 2</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>6</Course>
+    <Age>17</Age>
+    <Group>3</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Квитко</LastName>
+    <FirstName>Петр</FirstName>
+    <University>Университет 3</University>
+    <Faculty>Факультет 3</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>1</Course>
+    <Age>22</Age>
+    <Group>3</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Коршунов</LastName>
+    <FirstName>Игорь</FirstName>
+    <University>Университет 3</University>
+    <Faculty>Факультет 2</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>1</Course>
+    <Age>20</Age>
+    <Group>1</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Жукова</LastName>
+    <FirstName>Ольга</FirstName>
+    <University>Университет 1</University>
+    <Faculty>Факультет 3</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>2</Course>
+    <Age>18</Age>
+    <Group>1</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Маурин</LastName>
+    <FirstName>Владимир</FirstName>
+    <University>Университет 3</University>
+    <Faculty>Факультет 1</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>3</Course>
+    <Age>19</Age>
+    <Group>1</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Новикова</LastName>
+    <FirstName>Марина</FirstName>
+    <University>Университет 1</University>
+    <Faculty>Факультет 2</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>4</Course>
+    <Age>20</Age>
+    <Group>2</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Самошкина</LastName>
+    <FirstName>Евгения</FirstName>
+    <University>Университет 3</University>
+    <Faculty>Факультет 3</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>6</Course>
+    <Age>21</Age>
+    <Group>2</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Мухина</LastName>
+    <FirstName>Эмма</FirstName>
+    <University>Университет 2</University>
+    <Faculty>Факультет 1</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>5</Course>
+    <Age>22</Age>
+    <Group>2</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Родина</LastName>
+    <FirstName>Екатерина</FirstName>
+    <University>Университет 1</University>
+    <Faculty>Факультет 2</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>2</Course>
+    <Age>20</Age>
+    <Group>3</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Костров</LastName>
+    <FirstName>Тимофей</FirstName>
+    <University>Университет 3</University>
+    <Faculty>Факультет 2</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>4</Course>
+    <Age>19</Age>
+    <Group>3</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Самойлова</LastName>
+    <FirstName>Алиса</FirstName>
+    <University>Университет 1</University>
+    <Faculty>Факультет 1</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>3</Course>
+    <Age>18</Age>
+    <Group>3</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Селезнев</LastName>
+    <FirstName>Виталий</FirstName>
+    <University>Университет 2</University>
+    <Faculty>Факультет 2</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>1</Course>
+    <Age>20</Age>
+    <Group>2</Group>
+    <City>Город1</City>
+  </Student>
+  <Student>
+    <LastName>Пунш</LastName>
+    <FirstName>Глеб</FirstName>
+    <University>Университет 2</University>
+    <Faculty>Факультет 3</Faculty>
+    <Department>Кафедра 1</Department>
+    <Course>2</Course>
+    <Age>17</Age>
+    <Group>1</Group>
+    <City>Город1</City>
+  </Student>
+</ArrayOfStudent>

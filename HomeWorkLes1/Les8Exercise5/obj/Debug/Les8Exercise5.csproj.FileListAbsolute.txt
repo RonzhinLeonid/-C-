@@ -1,0 +1,10 @@
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise5\bin\Debug\Les8Exercise5.exe.config
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise5\bin\Debug\Les8Exercise5.exe
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise5\bin\Debug\Les8Exercise5.pdb
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise5\obj\Debug\Les8Exercise5.csprojAssemblyReference.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise5\obj\Debug\Les8Exercise5.Properties.Resources.resources
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise5\obj\Debug\Les8Exercise5.csproj.GenerateResource.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise5\obj\Debug\Les8Exercise5.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise5\obj\Debug\Les8Exercise5.exe
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise5\obj\Debug\Les8Exercise5.pdb
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise5\obj\Debug\Les8Exercise5.Form1.resources

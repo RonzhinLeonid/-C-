@@ -1,0 +1,7 @@
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise1\bin\Debug\Les8Exercise1.exe.config
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise1\bin\Debug\Les8Exercise1.exe
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise1\bin\Debug\Les8Exercise1.pdb
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise1\obj\Debug\Les8Exercise1.csprojAssemblyReference.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise1\obj\Debug\Les8Exercise1.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise1\obj\Debug\Les8Exercise1.exe
+E:\GeekBrains\Base-C-sharp.git\HomeWorkLes1\Les8Exercise1\obj\Debug\Les8Exercise1.pdb
